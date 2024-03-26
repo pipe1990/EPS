@@ -40,7 +40,7 @@ public class Controller implements ActionListener{
 	public static final String URL = "jdbc:postgresql://localhost/Proyecto";
 	//CREDENCIALES
 	public static final String USERNAME = "postgres";
-	public static final String PASSWORD = "papito";
+	public static final String PASSWORD = "";
 	
 	//DECLARACION PARA LA BASE DE DATOS
 	PreparedStatement ps;
